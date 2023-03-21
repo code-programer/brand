@@ -1,0 +1,15 @@
+{
+  "colors":[
+    "#90e0ef",
+    "#00b4d8",
+    "#023e8a",
+    "#03045e"
+  ],
+  "name":"BlueSites",
+  "logo":"logo.png",
+  "animated-logo":"animated.gif",
+  "fonts":[
+    "normal.otf",
+    "color.otf"
+  ]
+}
